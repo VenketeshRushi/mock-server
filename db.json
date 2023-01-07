@@ -29,6 +29,17 @@
             "Description": "Tata Altroz with all original documents",
             "Price": 500000
           }
-        ]
+        ],
+        "users":[{
+           "id":1,
+           "email":"rushivenketesh@gmail.com",
+           "username": "raman",
+           "password": "1234",
+           "confirmpassword":"1234"
+        }],
+        "task":[{
+          "id":1,
+          "taskinfo":"doing something"
+        }]
 }      
  
