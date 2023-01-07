@@ -37,9 +37,6 @@
            "password": "1234",
            "confirmpassword":"1234"
         }],
-        "task":[{
-          "id":1,
-          "taskinfo":"doing something"
-        }]
+        "task":[]
 }      
  
